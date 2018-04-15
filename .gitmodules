@@ -1,0 +1,3 @@
+[submodule "gitsubm-3"]
+	path = gitsubm-3
+	url = https://github.com/wbcuc/gitsubm-3
